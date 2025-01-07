@@ -8,7 +8,7 @@ Welcome to the Movie Recommendation System! This project uses Machine Learning t
 
 ---
 
-Explore my site Here [Visit](https://movie-recommendation-system-frn84ejdc7ekwgjzbuaxxd.streamlit.app/)
+Explore my site Here [Visit](https://movie-recommendation-system-hpwawwnergnkwqk4ajdnkb.streamlit.app/)
 
 ---
 
@@ -79,7 +79,9 @@ pip install -r requirements.txt
 
 Start the Streamlit web app:<br><br>
 
-```streamlit run app.py```
+```bash
+streamlit run app.py
+```
 <br><br>
 Open the provided local URL in your web browser (e.g., `http://localhost:8501`).<br><br>
 
