@@ -52,12 +52,11 @@ Dataset Link: [Visit](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dat
 Follow these steps to set up the project on your local machine: 🚀🛠️🔧<br><br>
 
 
- &nbsp;&nbsp;1.Clone the repository:<br><br>
+1.Clone the repository:<br><br>
 
-&nbsp;&nbsp;```
-&nbsp;&nbsp;git clone https://github.com/Code1235/Machine-Learning-Projects
+```git clone https://github.com/Code1235/Machine-Learning-Projects
 &nbsp;&nbsp;cd Movies-Recommendation-System 
-&nbsp;&nbsp;```
+```
 
 <br>
 2.Install the required Python libraries:<br><br>
