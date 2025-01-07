@@ -54,14 +54,16 @@ Follow these steps to set up the project on your local machine: 🚀🛠️🔧<
 
 1.Clone the repository:<br><br>
 
-```git clone https://github.com/Code1235/Machine-Learning-Projects
-&nbsp;&nbsp;cd Movies-Recommendation-System 
+```bash
+git clone https://github.com/Code1235/Machine-Learning-Projects
+cd Movies-Recommendation-System
 ```
 
 <br>
 2.Install the required Python libraries:<br><br>
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 <br>
 
