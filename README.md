@@ -42,7 +42,7 @@ Explore my site Here [Visit](https://movie-recommendation-system-frn84ejdc7ekwgj
 
 The dataset includes movie titles, genres, descriptions, and poster links. It has been preprocessed and saved as a pickle file for efficient loading. 📂🎬🗂️ <br><br>
 
-Dataset Link: 
+Dataset Link: [Visit](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 <br><br>
 
 ---
@@ -54,12 +54,17 @@ Follow these steps to set up the project on your local machine: 🚀🛠️🔧<
 
  &nbsp;&nbsp;1.Clone the repository:<br><br>
 
-&nbsp;&nbsp;```git clone https://github.com/Code1235/Machine-Learning-Projects
-&nbsp;&nbsp;cd Movies-Recommendation-System```
+&nbsp;&nbsp;```
+&nbsp;&nbsp;git clone https://github.com/Code1235/Machine-Learning-Projects
+&nbsp;&nbsp;cd Movies-Recommendation-System 
+&nbsp;&nbsp;```
+
 <br>
 2.Install the required Python libraries:<br><br>
 
-```pip install -r requirements.txt```<br><br>
+```pip install -r requirements.txt
+```
+<br>
 
 3.Ensure the following files are in your project directory:<br><br>
 
